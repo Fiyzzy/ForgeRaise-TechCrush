@@ -1,0 +1,9 @@
+# Build artifacts
+out/
+cache/
+
+# Environment variables (NEVER commit this)
+.env
+
+# Broadcast logs (optional - contains tx hashes)
+broadcast/
